@@ -1,4 +1,4 @@
-# REST_API_NODE.js
+# REST_API_SHOP
 A basic REST API with Authentication built using Node.js and MongoDB
 
 # Steps to run
